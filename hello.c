@@ -8,5 +8,7 @@ int main()
 	printf("this is bug123's message");
 	printf("bug123's message2");
 	printf("master's message");
+	printf("bug456's message");
+	printf("bug456's message2");
 	return 0;
 }
