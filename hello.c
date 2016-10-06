@@ -11,5 +11,6 @@ int main()
 	printf("bug456's message");
 	printf("bug456's message2");
 	printf("remot message");
+	printf("crashed message2");
 	return 0;
 }
