@@ -10,6 +10,7 @@ int main()
 	printf("master's message");
 	printf("bug456's message");
 	printf("bug456's message2");
-	printf("remot message");
+	printf("remote message");
+	printf("crashed message");
 	return 0;
 }
