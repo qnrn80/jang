@@ -12,5 +12,6 @@ int main()
 	printf("bug456's message2");
 	printf("remote message");
 	printf("crashed message");
+	printf("crashed message2");
 	return 0;
 }
